@@ -1,0 +1,26 @@
+/*body{
+    background-image: url('img/edu-5.jpg');
+    background-size: 100%,100%;
+    height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+}*/
+.primary-background{
+    /*background: #66bb6a;*/
+    background: N/A;
+}
+.bg-custom{
+    background: N/A;
+}
+.img-fluid{
+    background-image:100% 100%;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
